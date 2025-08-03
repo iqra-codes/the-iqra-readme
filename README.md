@@ -1,9 +1,8 @@
 # the-iqra-readme
 # Hi, I'm Iqra! 🙋🏻‍♀️  
-[![Profile README](https://img.shields.io/badge/Profile%20README-View%20Now-blue?style=for-the-badge)](https://github.com/iqra-codes/the-iqra-readme)
-This is my developer introduction space — half-built, full of ideas, always under active development.   
-I love on building real things, learning constantly, and peeling back the layers of code to understand what’s beneath.
-
+[![Profile README](https://img.shields.io/badge/Profile%20README-View%20Now-blue?style=for-the-badge)](https://github.com/iqra-codes/the-iqra-readme)  
+This is my developer introduction space — half-built, full of ideas, always under active development.  
+I love building real things, learning constantly, and peeling back the layers of code to understand what’s beneath.
 ---
 
 ## 💻 Skills
