@@ -16,6 +16,7 @@ I love building and peeling back the layers of code to understand what’s benea
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ---
 
@@ -25,11 +26,16 @@ Learning by building—one meaningful project at a time.
 
 ---
 
-## 📫 How to Reach Me  
+## 📨 How to Reach Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/iqra-khan-9690a1364)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/iqra-codes)
 
 ---
 
 ## 🧩 Fun Fact  
-I started contributing to open source before I fully knew how Git worked—and I’m still learning every day. 📈💡
+I started contributing to open source before I fully knew how Git worked—and I’m still learning every day.💡
+---
+## ❓ Curious how I made this README?
+Check out the repo behind this profile setup 👉  
+[![Repo](https://img.shields.io/badge/View%20README%20Code-blue?style=for-the-badge)](https://github.com/iqra-codes/the-iqra-readme)
+
