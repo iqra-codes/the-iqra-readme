@@ -1,7 +1,7 @@
 # the-iqra-readme
 # Hi, I'm Iqra! 🙋🏻‍♀️  
-This is my developer introduction space — half-built, full of ideas, always under active development.  
-I love building real things, learning constantly, and peeling back the layers of code to understand what’s beneath.
+This is my developer introduction space: half-built, full of ideas, always under active development.  
+I love building and peeling back the layers of code to understand what’s beneath.
 ---
 
 ## 💻 Skills
