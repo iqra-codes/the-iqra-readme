@@ -38,3 +38,6 @@ I started contributing to open source before I fully knew how Git worked—and I
 
 ## 📊 GitHub Activity
 ![Iqra's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=iqra-codes&theme=github-dark&hide_border=true)
+---
+![Visitors](https://komarev.com/ghpvc/?username=iqra-codes&style=for-the-badge&color=blue)
+
