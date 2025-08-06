@@ -35,7 +35,5 @@ Learning by building—one meaningful project at a time.
 ## 🧩 Fun Fact  
 I started contributing to open source before I fully knew how Git worked—and I’m still learning every day.💡
 
-## ❓ Curious how I made this README?
-Check out the repo behind this profile setup 👉  
-[![Repo](https://img.shields.io/badge/View%20README%20Code-blue?style=for-the-badge)](https://github.com/iqra-codes/the-iqra-readme)
-
+## 📊 GitHub Activity
+![Iqra's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=iqra-codes&theme=github-dark&hide_border=true)
