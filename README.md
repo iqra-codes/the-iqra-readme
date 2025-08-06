@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="female developer banner" width="600" />
 </p>
+---
 # the-iqra-readme
 # Hi, I'm Iqra! 🙋🏻‍♀️  
 This is my developer introduction space: half-built, full of ideas, always under active development.  
