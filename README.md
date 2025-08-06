@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="female developer banner" width="600" />
-</p>
+# Hi, I'm Iqra! 🙋🏻‍♀️ <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="female developer banner" width="50" style="vertical-align: middle;" />
 
-# Hi, I'm Iqra! 🙋🏻‍♀️  
 This is my developer introduction space: half-built, full of ideas, always under active development.  
 I love building and peeling back the layers of code to understand what’s beneath.
+
 ---
 
 ## 💻 Skills
