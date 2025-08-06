@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="female developer banner" width="600" />
+</p>
 # the-iqra-readme
 # Hi, I'm Iqra! 🙋🏻‍♀️  
 This is my developer introduction space: half-built, full of ideas, always under active development.  
@@ -37,5 +40,3 @@ I started contributing to open source before I fully knew how Git worked—and I
 
 ## 📊 GitHub Activity
 ![Iqra's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=iqra-codes&theme=github-dark&hide_border=true)
----
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="welcome banner" style="width:100%;" />
