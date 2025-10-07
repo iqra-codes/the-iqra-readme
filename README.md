@@ -27,8 +27,15 @@ Learning by building—one meaningful project at a time.
 
 ---
 
-## 📨 How to Reach Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/iqra-khan-9690a1364)  
+## 🏆ACHIEVEMENTS 
+[![An image of @iqracodes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iqracodes)](https://holopin.io/@iqracodes)
+
+---
+
+## 📨 How to Reach Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/iqra-khan-9690a1364)  
+
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/iqra-codes)
 
 ---
