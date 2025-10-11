@@ -34,7 +34,9 @@ Learning by building—one meaningful project at a time.
 
 ## 📨 How to Reach Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/iqra-khan-9690a1364)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/iqra-khan-9690a1364) 
+
+[![X (Twitter)](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Iqra_exe)
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/iqra-codes)
 
