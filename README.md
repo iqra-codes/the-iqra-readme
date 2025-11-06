@@ -49,6 +49,3 @@ Learning by building—one meaningful project at a time.
 I started contributing to open source before I fully knew how Git worked—and I’m still learning every day.💡
 
 ---
-
-## 📊 My GitHub Activity
-![Iqra's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=iqra-codes&theme=github-dark&hide_border=true)
